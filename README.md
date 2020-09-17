@@ -1,1 +1,2 @@
-# color-guess-MIT-App-Inverntor-
+# color-guess
+This app was created with MIT App Inventor
